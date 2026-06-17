@@ -336,19 +336,13 @@ ORDER BY LoanPurpose, Rank_In_Purpose;
 
 This project serves as a comprehensive SQL analysis of loan default behaviour, covering database setup, exploratory data analysis, and business-driven SQL queries progressing from Basic to Advanced. The findings from this project can help financial institutions make better lending decisions by identifying high-risk borrower profiles and understanding default patterns across demographics and loan types.
 
-## How to Use
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the setup section in `project_sql.sql` to create the database and table.
-3. **Import the Dataset**: Use MySQL Workbench Table Data Import Wizard to load `Loan_default_updated.csv`. Map `Default` → `DefaultStatus` and `Loan Date (DD/MM/YYYY)` → `LoanDate`.
-4. **Run the Queries**: Use the SQL queries provided in `project_sql.sql` to perform your analysis.
-5. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
 ## Author - Priya Janani
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-- **LinkedIn**: [Connect with me professionally](#)
-- **GitHub**: [View my other projects](#)
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/priya-janani-krishnamoorthy-saravanapriya-40795535a)
+
 
 Thank you for your support, and I look forward to connecting with you!
