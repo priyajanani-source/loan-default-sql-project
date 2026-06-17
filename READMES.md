@@ -342,7 +342,7 @@ This project serves as a comprehensive SQL analysis of loan default behaviour, c
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/priya-janani-krishnamoorthy-saravanapriya-40795535a)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/priya-janani-krishnamoorthy-saravanapriya-40795535a)
 
 
 Thank you for your support, and I look forward to connecting with you!
